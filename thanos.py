@@ -54,8 +54,7 @@ banek='''\x1b[1;97m
  Telegram: i4m_REX
  Channal : BESTxHACKER
  ---------------------------------------------------------------------Yak Sahat Bo Dw Sahat Rawsta
- '''
-logo2 = '\x1b[90;1m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[0;1m'
+
 
 def reba(FARA):
 	for e in FARA + '\n':
